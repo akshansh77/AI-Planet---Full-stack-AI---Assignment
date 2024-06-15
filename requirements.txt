@@ -1,0 +1,14 @@
+streamlit
+streamlit_chat
+langchain
+langchain_community
+transformers
+easyocr
+Pillow
+huggingface-hub
+python-dotenv
+pandas
+numpy
+sentence-transformers
+torch
+faiss-cpu
